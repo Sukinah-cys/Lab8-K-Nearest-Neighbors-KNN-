@@ -83,7 +83,7 @@ K = 30
 ```
 
 ### Final Accuracy Achieved
-**83%**
+**82%**
 
 ---
 
