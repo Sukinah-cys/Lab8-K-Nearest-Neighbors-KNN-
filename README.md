@@ -1,5 +1,4 @@
-# Lab8-K-Nearest-Neighbors-KNN- Classification Project
-
+# Lab 8 - K-Nearest Neighbors (KNN) Classification Project
 
 ## Overview
 This project demonstrates the implementation of the K-Nearest Neighbors (KNN) algorithm using Python and Scikit-learn to classify artificial data into target classes.
@@ -41,6 +40,9 @@ numpy
 matplotlib
 seaborn
 scikit-learn
+```
+
+---
 
 ## Project Workflow
 
@@ -66,6 +68,8 @@ Evaluated model performance using:
 ### 6. Hyperparameter Optimization
 Applied the Elbow Method to identify the most suitable K value for improving model performance.
 
+---
+
 ## Results
 
 The model was initially evaluated using **K = 1**.
@@ -73,11 +77,15 @@ The model was initially evaluated using **K = 1**.
 To improve performance, hyperparameter tuning was conducted using the **Elbow Method** to determine the most suitable number of neighbors.
 
 ### Optimal K Value
+
 ```python
 K = 30
+```
 
-### Final Accuracy Achieved:
-83%
+### Final Accuracy Achieved
+**83%**
+
+---
 
 ## Key Learning Outcomes
 
